@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Trabajo2</string>
+    <string name="edt_nombre">Nombre</string>
+    <string name="edt_apellido">Apellido</string>
+    <string name="edt_numero1">Numero uno</string>
+    <string name="edt_numero2">Numero 2</string>
+    <string name="btn_enviar"> enviar </string>
+    <string name="btn_resta"> - </string>
+    <string name="edt_nombrec">Nombre</string>
+    <string name="edt_apellico">Resultado</string>
+    <string name="edt_numerocelular"></string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="edt_nuymero"></string>
+    <string name="btn_llamar">Llamar</string>
+    <string name="txt_ingresenumero">Ingrese numero para llamar</string>
+</resources>
